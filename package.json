@@ -1,0 +1,22 @@
+{
+  "name": "odin_project",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ELiiee03/odin_project.git"
+  },
+  "author": "Lieca Jane Eleccion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ELiiee03/odin_project/issues"
+  },
+  "homepage": "https://github.com/ELiiee03/odin_project#readme",
+  "dependencies": {
+    "tar": "^6.1.15"
+  }
+}
